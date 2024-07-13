@@ -1,4 +1,3 @@
-import logo from './image.webp';
 import './index.css';
 import './App.css';
 import Navbar from './navbar.js';
